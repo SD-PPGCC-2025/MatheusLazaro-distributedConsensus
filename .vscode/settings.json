@@ -1,0 +1,10 @@
+{
+    // reconhece src/main/java como fonte
+    "java.project.sourcePaths": [
+        "src/main/java"
+    ],
+    // manda todos os .class para a pasta out (igual ao javac -d out)
+    "java.project.outputPath": "out",
+    // sempre que mudar configurações, atualiza automaticamente
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
