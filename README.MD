@@ -1,3 +1,9 @@
+```txt
+PPGCC
+Disciplina: Sistemas Distribuídos
+Aluno: Matheus Lázaro Honório da Silva
+```
+
 # Distributed Consensus
 
 Este projeto implementa **dois** algoritmos clássicos de consenso distribuído, pedagógica e didaticamente, em Java:
